@@ -1,1 +1,1 @@
-GET https://aqueous-hamlet-90023.herokuapp.com/api/persons
+GET http://localhost:3001/api/persons
